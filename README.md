@@ -34,6 +34,8 @@ The Global Fund to Fight AIDS, Tuberculosis and Malaria (or simply The Global Fu
 
 - [Plot Figures and Create Tables](https://github.com/zhangle0127/GlobalFund_Zhejiang_MDR-TB_Project/tree/master/Create_Tables_And_Figures)
 
+- [Mathematical Model](https://github.com/zhangle0127/GlobalFund_Zhejiang_MDR-TB_Project/tree/master/Mathematical%20model)
+
 ## Pulished paper
 
 - **Le Zhang**, Qiong Meng, Songhua Chen, et al. [Treatment outcomes of multidrug-resistant tuberculosis patients in Zhejiang, China, 2009-2013. Clinical Microbiology and Infection](https://doi.org/10.1016/j.cmi.2017.07.008) (IF: 5.3)
