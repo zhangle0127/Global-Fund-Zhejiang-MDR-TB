@@ -1,11 +1,10 @@
-# Global Fund - Zhejiang Project on Treating and Control of Mulitidrug-resistant Tuberculosis (MDR-TB)
-
+# Global Fund on the Control of MDR-TB
 ## Data source
 - [Zhejiang Disease Prevention and Control Center](http://www.cdc.zj.cn/)
 
 - Time Period: 2009-2013
 
-- Population: Multidrug resistant tuberculosis patients
+- Population: Multidrug resistant tuberculosis patients (MDR-TB)
 
 ## Methods
 - Conducted a prospective observational cohort. MDR-TB patients were prescribed treatments by infectious disease specialists. Sociodemographic characteristics were obtained through a structured questionnaire. 
