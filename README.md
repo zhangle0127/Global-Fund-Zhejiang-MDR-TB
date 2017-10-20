@@ -3,13 +3,13 @@ The Global Fund to Fight AIDS, Tuberculosis and Malaria (or simply The Global Fu
 
 ## Table of Contents
 
-1. **[Data source](#Data-source)**
-2. **[Methods](#Methods)**
-3. **[Reusable codes](#Reusable-codesl)**
-4. **[Pulished paper](#Pulished-paper)**
+1. **[Data source](#data-source)**
+2. **[Methods](#methods)**
+3. **[Reusable codes](#reusable-codes)**
+4. **[Pulished paper](#pulished-paper)**
 
 ## Data source
-- [Zhejiang Disease Prevention and Control Center](http://www.cdc.zj.cn/)
+- Zhejiang Disease Prevention and Control Center
 
 - Time Period: 2009-2013
 
